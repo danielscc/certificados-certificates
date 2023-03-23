@@ -1,7 +1,7 @@
 # Certificaciones - Certificates
 
 Repositorio de certificaciones completadas. :mexico:<br>
-Repository for certificate archive reasons. :us: 
+Certification repository for archive reasons. :us: 
 
 ## Fundamentos para la nube en la industria 4.0 con tecnologías Microsoft.
 
